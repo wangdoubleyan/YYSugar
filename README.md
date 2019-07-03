@@ -9,44 +9,6 @@ Sugar is a sweetener for your Cocoa implementations.
 [![Platform](https://img.shields.io/cocoapods/p/Sugar.svg?style=flat)](http://cocoadocs.org/docsets/Sugar)
 ![Swift](https://img.shields.io/badge/%20in-swift%205.0-orange.svg)
 
-
-<img src="https://raw.githubusercontent.com/hyperoslo/Sugar/master/Images/icon.png" alt="Hue Icon" align="right" />
-
-<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [iOS](#ios)
-	- [Application](#application)
-	- [Screen](#screen)
-	- [Simulator](#simulator)
-- [OS X](#os-x)
-	- [OS X Extensions](#os-x-extensions)
-		- [NSTableView](#nstableview)
-- [Shared](#shared)
-	- [Dates](#dates)
-		- [Compare](#compare)
-		- [Construct](#construct)
-	- [Frame](#frame)
-	- [Grand Central Dispatch](#grand-central-dispatch)
-	- [Localization](#localization)
-	- [Once](#once)
-	- [Operators](#operators)
-	- [Range](#range)
-	- [Regex](#regex)
-	- [Shared Extensions](#shared-extensions)
-		- [+Queueable](#queueable)
-		- [URLStringConvertible](#urlstringconvertible)
-		- [Core Foundation](#core-foundation)
-	- [Swizzler](#swizzler)
-	- [Then](#then)
-	- [Type Alias](#type-alias)
-	- [UITesting](#uitesting)
-	- [UnitTesting](#unittesting)
-- [Installation](#installation)
-- [Author](#author)
-- [License](#license)
-
-<!-- /TOC -->
-
 ## iOS
 
 ### Application
